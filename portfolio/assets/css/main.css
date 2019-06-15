@@ -3888,7 +3888,11 @@ input, select, textarea {
 		}
 
 
-
+		
+		img.GeneratedImage {
+		width: 200px;
+		height: 300px; 
+		margin: 10px;
 		
 
 
